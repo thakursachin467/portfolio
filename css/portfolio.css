@@ -11,6 +11,7 @@ body {
 	color: #7d97ad;
 	font-weight: 300;
 
+
 }
 
 @font-face {
@@ -28,8 +29,14 @@ h1 {
 	background-color: black;
 }
 
-.site-footer{
+.site-footer {
   
 	height: 100px; 
 	background: black;
+	color: orange;
+}
+
+.text-muted {
+
+	color: #BCBBBB;
 }
